@@ -3,7 +3,6 @@
   <br>
 </h1>
 
-___
 
 ## 🚀 Getting Started
 
@@ -11,8 +10,6 @@ These are needed to be able to run **Submit bot**.
 
 - [Python 3.8](https://www.python.org/)
 - [Discord.py[Rewrite]](https://github.com/Rapptz/discord.py/tree/rewrite)
-
-___
 
 ## ⚙️ Configuration
 
@@ -47,8 +44,6 @@ Edit `config.json` to your liking.
 If he wants to make the token hidden, you can leave it blank in the `config.json` file, and put it in the` .env` file, for example.\
 `token = <your token>`
 
-___
-
 ## 🤝 Setup
 
 1️⃣ **install the packages**
@@ -60,15 +55,11 @@ pip install -r requirements.txt
 python main.py
 ```
 
-___
-
 ## ✨ Commands
 
 `!submit` => to send your submit\
 `!reject` => to reject one of the applicants\
 `!accept` => to accept one of the applicants\
-
-___
 
 ## ⚠ MIT License
 
@@ -91,8 +82,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-___
 
 ## 🔖 Support
 
