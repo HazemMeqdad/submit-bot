@@ -41,7 +41,7 @@ Edit `config.json` to your liking.
 }
 ```
 
-If he wants to make the token hidden, you can leave it blank in the `config.json` file, and put it in the` .env` file, for example.\
+If he wants to make the token hidden, you can leave it blank in the `config.json` file, and put it in the `.env` file, for example.\
 `token = <your token>`
 
 ## 🤝 Setup
