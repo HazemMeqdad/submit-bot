@@ -59,7 +59,7 @@ python main.py
 
 `!submit` => to send your submit\
 `!reject` => to reject one of the applicants\
-`!accept` => to accept one of the applicants\
+`!accept` => to accept one of the applicants
 
 ## ⚠ MIT License
 
