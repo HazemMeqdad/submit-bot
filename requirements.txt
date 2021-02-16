@@ -1,0 +1,4 @@
+discord~=1.0.1
+asyncio~=3.4.3
+prettytable~=1.0.1
+termcolor~=1.1.0

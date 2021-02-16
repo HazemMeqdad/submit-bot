@@ -1,0 +1,21 @@
+{
+  "token": "token",
+  "prefix": "!",
+  "submit_channel": "",
+  "language": "en",
+  "cooldown": "86400",
+  "role": "",
+
+  "questions": [
+    "Example: write your name:",
+    "Example: write your age:",
+    "Example: write your job:",
+    "Example: etc."
+  ],
+
+  "aliases": {
+    "submit": ["sub"],
+    "accept": [],
+    "reject": []
+  }
+}
