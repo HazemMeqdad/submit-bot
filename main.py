@@ -36,6 +36,7 @@ EXTENSIONS = [
     "submit",
 ]
 
+# احبك يا رجلي "ODQ0NjI1MjczMzAzMDcyODU4.YKVJnA.qM6aLnzVCpYvjX-IxD9j-0Ybgpk"
 
 class Bot(commands.Bot):
     def __init__(self):
